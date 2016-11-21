@@ -1,1 +1,1 @@
-# reloaded
+# Reloaded (c) 2016.
